@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using ConsoleApp1.Repository;
+using strategy_pattern.Repository;
 
-namespace ConsoleApp1
+namespace strategy_pattern
 {
     public class Program
     {
