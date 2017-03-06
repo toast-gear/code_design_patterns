@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.xproj", "{E1B7DF8C-D5FB-4736-B530-A53DB0BF601A}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "strategy_pattern", "strategy_pattern\strategy_pattern.xproj", "{E1B7DF8C-D5FB-4736-B530-A53DB0BF601A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
